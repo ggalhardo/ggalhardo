@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ggalhardo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Node.js, Typescript, Vue.js, ...
+- 🌱 I’m currently learning .Net Core
 - 💞️ I’m looking to collaborate showing my learning
 - 📫 How to reach me glauco.galhardo@gmail.com
 
